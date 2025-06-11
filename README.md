@@ -51,7 +51,7 @@ cv2.data.haarcascades + 'haarcascade_eye.xml'
 cv2.data.haarcascades + 'haarcascade_smile.xml'
 ```
 
-No need to download anything manually!
+**No need to download anything manually!**
 
 ---
 
@@ -69,7 +69,7 @@ python face_webcam.py
 python all_image.py
 ```
 
-Make sure to replace `'your_image.jpg'` in the code with the actual path to your image.
+Make sure to replace `'img.jpg'` in the code with the actual path to your image.
 
 ---
 
