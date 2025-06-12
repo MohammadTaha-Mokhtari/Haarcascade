@@ -85,3 +85,6 @@ Make sure to replace `'img.jpg'` in the code with the actual path to your image.
 This project is free to use under the MIT License.
 
 
+**Created by MohammadTaha Mokhtari.**
+
+
